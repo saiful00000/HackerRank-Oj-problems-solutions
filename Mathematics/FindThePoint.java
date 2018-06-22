@@ -1,6 +1,6 @@
 /*
 *This problem is pretty simple math problem
-* happy coding
+* happy coding.......
 */
 
 package Mathematics;
